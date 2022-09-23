@@ -1,0 +1,3 @@
+#sum of numbers
+
+n=int(input())
